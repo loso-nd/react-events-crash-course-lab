@@ -20,7 +20,7 @@ export function init() {
   yellow.src = "chrome-boi-yellow.png"
   
   colors = [green, red, yellow]
-}
+} 
 
 export function drawChromeBoiAtCoords(x, y) {
   
